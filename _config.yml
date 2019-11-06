@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 title: open.trimet.io
-description: open.trimet.io placeholder.
-source: docs
+description: >
+  open.trimet.io placeholder.
+baseurl: ""
+url: 'https://open.trimet.io"
