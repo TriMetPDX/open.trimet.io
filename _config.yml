@@ -4,3 +4,12 @@ description: >
   open.trimet.io placeholder.
 baseurl: ""
 url: 'https://open.trimet.io"
+
+# cayman-theme
+google_analytics: UA-688646-18
+show_downloads: false
+
+github:
+  is_project_page: false
+  repository_url: https://github.com/trimetpdx
+  
